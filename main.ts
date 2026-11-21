@@ -6,7 +6,7 @@
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
 
 const JOKE =
-  "I told my agent the demo is tomorrow, so it stayed up all night and filed a bug against my sleep schedule.";
+  "I told my agent the demo must never crash, so it showed a screenshot instead.";
 
 const OUT_DIR = "/output";
 const OUT_PATH = `${OUT_DIR}/entry.txt`;

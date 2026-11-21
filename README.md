@@ -4,6 +4,6 @@
 
 # The joke about the demo
 
-A program that writes one one-line joke about working beside AI coding agents to `/output/entry.txt`. The joke: an agent that works all night before the demo — and files a bug against its human's sleep schedule.
+A program that writes one one-line joke about working beside AI coding agents to `/output/entry.txt`. The joke: an agent told the demo must never crash — so it showed a screenshot instead.
 
 Run with Node 22: `node main.ts`
